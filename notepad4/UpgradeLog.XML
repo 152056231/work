@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="记事本">
+</Property><Property Name="解决方案文件" Value="C:\Users\Administrator\Desktop\记事本2005\记事本.sln">
+</Property><Property Name="用户选项文件" Value="C:\Users\Administrator\Desktop\记事本2005\记事本.suo">
+</Property><Property Name="Date" Value="2018年1月6日">
+</Property><Property Name="Time" Value="20:10">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="记事本.sln" Description="文件已成功备份为 C:\Users\Administrator\Desktop\记事本2005\Backup\记事本.sln">
+</Event><Event ErrorLevel="0" Project="" Source="记事本.suo" Description="文件已成功备份为 C:\Users\Administrator\Desktop\记事本2005\Backup\记事本.suo">
+</Event><Event ErrorLevel="0" Project="记事本" Source="记事本\记事本.csproj" Description="项目文件已成功备份为 C:\Users\Administrator\Desktop\记事本2005\Backup\记事本\记事本.csproj">
+</Event><Event ErrorLevel="0" Project="记事本" Source="记事本\记事本.csproj.user" Description="项目用户文件成功备份为 C:\Users\Administrator\Desktop\记事本2005\Backup\记事本\记事本.csproj.user">
+</Event><Event ErrorLevel="0" Project="记事本" Source="记事本\AboutMeAndPicture.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\记事本2005\Backup\记事本\AboutMeAndPicture.cs">
+</Event><Event ErrorLevel="0" Project="记事本" Source="记事本\AboutMeAndPicture.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\记事本2005\Backup\记事本\AboutMeAndPicture.Designer.cs">
+</Event><Event ErrorLevel="0" Project="记事本" Source="记事本\FrmMain.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\记事本2005\Backup\记事本\FrmMain.cs">
+</Event><Event ErrorLevel="0" Project="记事本" Source="记事本\FrmMain.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\记事本2005\Backup\记事本\FrmMain.Designer.cs">
+</Event><Event ErrorLevel="0" Project="记事本" Source="记事本\finder.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\记事本2005\Backup\记事本\finder.cs">
+</Event><Event ErrorLevel="0" Project="记事本" Source="记事本\finder.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\记事本2005\Backup\记事本\finder.Designer.cs">
+</Event><Event ErrorLevel="0" Project="记事本" Source="记事本\findAndreplace.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\记事本2005\Backup\记事本\findAndreplace.cs">
+</Event><Event ErrorLevel="0" Project="记事本" Source="记事本\findAndreplace.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\记事本2005\Backup\记事本\findAndreplace.Designer.cs">
+</Event><Event ErrorLevel="0" Project="记事本" Source="记事本\Next.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\记事本2005\Backup\记事本\Next.cs">
+</Event><Event ErrorLevel="0" Project="记事本" Source="记事本\Next.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\记事本2005\Backup\记事本\Next.Designer.cs">
+</Event><Event ErrorLevel="0" Project="记事本" Source="记事本\Program.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\记事本2005\Backup\记事本\Program.cs">
+</Event><Event ErrorLevel="0" Project="记事本" Source="记事本\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\记事本2005\Backup\记事本\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="记事本" Source="记事本\Properties\Resources.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\记事本2005\Backup\记事本\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="记事本" Source="记事本\Properties\Settings.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\记事本2005\Backup\记事本\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="记事本" Source="记事本\Properties\Settings.settings" Description="文件已成功备份为 C:\Users\Administrator\Desktop\记事本2005\Backup\记事本\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="记事本" Source="记事本\AboutMeAndPicture.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\记事本2005\Backup\记事本\AboutMeAndPicture.resx">
+</Event><Event ErrorLevel="0" Project="记事本" Source="记事本\FrmMain.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\记事本2005\Backup\记事本\FrmMain.resx">
+</Event><Event ErrorLevel="0" Project="记事本" Source="记事本\finder.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\记事本2005\Backup\记事本\finder.resx">
+</Event><Event ErrorLevel="0" Project="记事本" Source="记事本\findAndreplace.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\记事本2005\Backup\记事本\findAndreplace.resx">
+</Event><Event ErrorLevel="0" Project="记事本" Source="记事本\Next.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\记事本2005\Backup\记事本\Next.resx">
+</Event><Event ErrorLevel="0" Project="记事本" Source="记事本\Properties\Resources.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\记事本2005\Backup\记事本\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="记事本" Source="记事本\记事本.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="记事本" Source="记事本\记事本.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="记事本" Source="记事本\记事本.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Xielenggen_JSB_Setup.vdproj" Source="Xielenggen_JSB_Setup\Xielenggen_JSB_Setup.vdproj" Description="项目文件已成功备份为 C:\Users\Administrator\Desktop\记事本2005\Backup\Xielenggen_JSB_Setup\Xielenggen_JSB_Setup.vdproj">
+</Event><Event ErrorLevel="0" Project="" Source="记事本.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="记事本.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="记事本" Source="记事本\记事本.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>
